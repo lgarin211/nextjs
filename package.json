@@ -1,6 +1,6 @@
 {
-  "name": "nextjs",
-  "displayName": "NEXTJS",
+  "name": "Laravel211",
+  "displayName": "Laravel211",
   "description": "'this is for my selft'",
   "version": "0.0.1",
   "engines": {
@@ -14,40 +14,12 @@
     "github.codespaces",
     "github.copilot-chat",
     "github.vscode-github-actions",
-    "heybourn.headwind",
-    "bradlc.vscode-tailwindcss",
-    "bourhaouta.tailwindshades",
-    "aaron-bond.better-comments",
-    "alefragnani.Bookmarks",
-    "BriteSnow.vscode-toggle-quotes",
-    "christian-kohler.path-intellisense",
-    "DavidAnson.vscode-markdownlint",
-    "deque-systems.vscode-axe-linter",
-    "esbenp.prettier-vscode",
-    "formulahendry.auto-close-tag",
-    "formulahendry.auto-rename-tag",
-    "Gruntfuggly.todo-tree",
-    "jpoissonnier.vscode-styled-components",
-    "MariusAlchimavicius.json-to-ts",
-    "meganrogge.template-string-converter",
-    "mhutchie.git-graph",
-    "mikestead.dotenv",
-    "ms-vscode.vscode-typescript-tslint-plugin",
-    "naumovs.color-highlight",
-    "oderwat.indent-rainbow",
-    "Orta.vscode-jest",
-    "PKief.material-icon-theme",
-    "pulkitgangwar.nextjs-snippets",
-    "quicktype.quicktype",
-    "rangav.vscode-thunder-client",
-    "richie5um2.vscode-sort-json",
-    "shardulm94.trailing-spaces",
-    "shd101wyy.markdown-preview-enhanced",
-    "sleistner.vscode-fileutils",
-    "streetsidesoftware.code-spell-checker",
-    "VisualStudioExptTeam.vscodeintellicode"
+    "onecentlin.laravel-extension-pack",
+    "mrchetan.laravel-goto-config",
+    "mehedidracula.php-namespace-resolver",
+    "bmewburn.vscode-intelephense-client"
   ],
-  "undiv":[
+  "undiv": [
     "dbaeumer.vscode-eslint"
   ]
 }
